@@ -1,0 +1,1568 @@
+{
+  "b": 209,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "LV1_95FACILE",
+  "name": "LV1_FACILE",
+  "r": 209,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 209,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.5653158055126344,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "Grille_LV1F",
+      "persistentUuid": "50077698-d31d-463e-81b5-006226a6cb9c",
+      "sealed": true,
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1f028082-cbe1-4e8a-aa30-bb4d3904a374",
+      "width": 100,
+      "x": 127,
+      "y": 529,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "8acdc53f-0791-451b-9b31-a831a879a771",
+      "width": 100,
+      "x": 244,
+      "y": 530,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "93c8b924-36ae-402c-8592-aa9e2d003d32",
+      "width": 100,
+      "x": 360,
+      "y": 530,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "cf7ab737-9d16-4ec2-843e-aeb27c062314",
+      "width": 100,
+      "x": 477,
+      "y": 530,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "ed4d99a0-5dfb-4a4b-b604-6402a517d217",
+      "width": 100,
+      "x": 594,
+      "y": 530,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "6e3743a1-d90f-4b4a-a69f-25c338908747",
+      "width": 100,
+      "x": 593,
+      "y": 645,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "54573ee0-2a7e-43bb-8aea-792e8533a95c",
+      "width": 100,
+      "x": 476,
+      "y": 645,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "f1c11f68-2710-4a22-bce0-e8ab038dd6b2",
+      "width": 100,
+      "x": 359,
+      "y": 645,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "a8d54435-a8c4-450b-9e9d-17c8816f50b7",
+      "width": 100,
+      "x": 243,
+      "y": 645,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "d216809d-9011-4abd-851f-86851ff60d34",
+      "width": 100,
+      "x": 126,
+      "y": 644,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "25709ab3-6c9e-4f68-bd6d-7a1a32222936",
+      "width": 100,
+      "x": 593,
+      "y": 760,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "2673cd03-a7bd-4de0-9494-9284197c0543",
+      "width": 100,
+      "x": 476,
+      "y": 760,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "07f59eaf-b560-455c-b432-7b16cd7a5a30",
+      "width": 100,
+      "x": 359,
+      "y": 760,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "76ff26c7-ee1a-4274-89bf-79161f1a948f",
+      "width": 100,
+      "x": 243,
+      "y": 760,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "a451039e-1ff0-493e-902d-c78c9633a217",
+      "width": 100,
+      "x": 126,
+      "y": 759,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "8b655856-d453-4fc4-92a3-c036416ea3e3",
+      "width": 100,
+      "x": 593,
+      "y": 874,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "0cd7a953-5109-41d4-8a97-e9a184f2542e",
+      "width": 100,
+      "x": 476,
+      "y": 874,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "0efc4e52-b2aa-4d77-864d-5b5c25e3084e",
+      "width": 100,
+      "x": 359,
+      "y": 874,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "8634e93c-9369-471f-95f2-7543d392c63c",
+      "width": 100,
+      "x": 243,
+      "y": 874,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "dd9d7197-1d36-408b-9311-bbbace32139a",
+      "width": 100,
+      "x": 126,
+      "y": 874,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "08fe0bb1-6504-442b-82b8-6fb7fb25da8a",
+      "width": 100,
+      "x": 593,
+      "y": 989,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "34145f25-5567-4aa8-aec2-ef21b8da904e",
+      "width": 100,
+      "x": 476,
+      "y": 989,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "4cd0d6e1-22ef-4e54-8ee6-c888fca148a7",
+      "width": 100,
+      "x": 359,
+      "y": 989,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "4568b179-115c-4ffd-b7b0-741f2a3cf77d",
+      "width": 100,
+      "x": 243,
+      "y": 989,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "02b8fb6f-d9d8-473f-8e72-ec17a1222cac",
+      "width": 100,
+      "x": 126,
+      "y": 989,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 932,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "380186bc-48a0-4790-a84e-994c6303d708",
+      "width": 208,
+      "x": 763,
+      "y": 778,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 115,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "ffbf05cd-072b-439c-883f-2e0d56d37582",
+      "width": 845,
+      "x": 392,
+      "y": 407,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 908,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "260455e3-ed4a-49e4-bf70-9818abe4098b",
+      "width": 203,
+      "x": -40,
+      "y": 804,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 169,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "be1b5060-ab23-4272-b07e-b8452e5a0083",
+      "width": 664,
+      "x": 362,
+      "y": 1253,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Deminor",
+      "persistentUuid": "f1c1d7a5-0b3b-4faf-9f81-4daf54921a87",
+      "width": 0,
+      "x": 125,
+      "y": 757,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "EXIT",
+      "persistentUuid": "230fab8c-415f-4fc0-8bfd-a680f6974e42",
+      "width": 0,
+      "x": 562,
+      "y": 727,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "2fdac1ed-21f6-4275-bede-069f2a6ec601",
+      "width": 0,
+      "x": 592,
+      "y": 655,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 318,
+      "layer": "",
+      "name": "X3_Vertical",
+      "persistentUuid": "01707c8a-d02e-4521-9858-2bca9113c986",
+      "width": 100,
+      "x": 367,
+      "y": 775,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "Background2",
+      "persistentUuid": "39ab56a2-e835-4cd9-8bcf-9aba55d7cfdc",
+      "sealed": true,
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "e8902f97-4354-49c1-9fd1-304f20c766bd",
+      "width": 0,
+      "x": 480,
+      "y": 652,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Horizontal",
+      "persistentUuid": "229af67c-e40f-4f6b-8162-a80259322f02",
+      "width": 0,
+      "x": 475,
+      "y": 529,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Horizontal",
+      "persistentUuid": "95d3cf0c-9456-4e87-9adc-79b99135d1f9",
+      "width": 0,
+      "x": 239,
+      "y": 1102,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "eaf28e1f-9526-4d5d-8d0e-6ce9e9c00787",
+      "width": 100,
+      "x": 126,
+      "y": 1103,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "c9ae456c-9c96-4c2a-ac07-9bb48b4bb1d4",
+      "width": 100,
+      "x": 243,
+      "y": 1104,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "80659bce-a6a0-405f-823f-c4c6a53c3bd3",
+      "width": 100,
+      "x": 359,
+      "y": 1104,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "f1d60ebb-0eaf-425a-9612-a092c473ccdb",
+      "width": 100,
+      "x": 476,
+      "y": 1104,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "37c75872-57a6-4f3e-8f4a-b974c16fc81c",
+      "width": 100,
+      "x": 593,
+      "y": 1104,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Timer_CD",
+      "persistentUuid": "74854cc3-6568-4195-a445-6a83692047e8",
+      "width": 0,
+      "x": 343,
+      "y": 286,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Compteur",
+      "persistentUuid": "74b1bddf-c027-4da3-ba42-ddb492dfccba",
+      "width": 0,
+      "x": 385,
+      "y": 286,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "EXIT",
+      "persistentUuid": "41563e35-7581-48a2-96ea-8f70d046b0b0",
+      "width": 0,
+      "x": 559,
+      "y": 731,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "EXIT_LV1F",
+      "persistentUuid": "08bab6d7-17c8-42dc-952a-911172353e7c",
+      "width": 0,
+      "x": 444,
+      "y": 731,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Score",
+      "name": "Score",
+      "persistentUuid": "5338229f-6eed-48bd-8dab-1441f58ad21a",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "Score",
+      "name": "Skip",
+      "persistentUuid": "46d2e9d3-c4ae-44a1-8afb-675065b0db47",
+      "width": 100,
+      "x": 568,
+      "y": 223,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Grille_LV1F",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grille 6x8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 62,
+                        "y": 465
+                      },
+                      {
+                        "x": 659,
+                        "y": 465
+                      },
+                      {
+                        "x": 659,
+                        "y": 1169
+                      },
+                      {
+                        "x": 62,
+                        "y": 1169
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Background2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "BGD2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 720,
+                        "y": 0
+                      },
+                      {
+                        "x": 720,
+                        "y": 1280
+                      },
+                      {
+                        "x": 0,
+                        "y": 1280
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "EXIT_LV1F",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "Grille_LV1F"
+      },
+      {
+        "objectName": "Background2"
+      },
+      {
+        "objectName": "EXIT_LV1F"
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Game_Event"
+    },
+    {
+      "colorB": 19,
+      "colorG": 0,
+      "colorR": 153,
+      "creationTime": 0,
+      "name": "Count Down / Movement Counter",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer_CD\""
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Deminor",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X2_Vertical",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X2_Horizontal",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X3_Vertical",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X3_Horizontal",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Timer_CD",
+                "Text",
+                "=",
+                "ToString(round(abs(TimerElapsedTime(\"Timer_CD\")-160))) "
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer_CD\"",
+                ">=",
+                "180"
+              ]
+            }
+          ],
+          "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Deminor",
+            "EXIT_LV1F",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetGlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "L1F",
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 5,
+      "colorG": 117,
+      "colorR": 65,
+      "creationTime": 0,
+      "folded": true,
+      "name": "SCORE",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Deminor",
+                "EXIT",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Score\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Skip",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Skip",
+                "Effect",
+                "\"Effect\"",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Skip",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Skip",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Skip",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Levels\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Skip",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Skip",
+                "Effect",
+                "\"Effect\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Compteur",
+                "Text",
+                "=",
+                "\"5\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Score",
+                "Animation",
+                "=",
+                "3"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Compteur",
+                "Text",
+                "=",
+                "\"7\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Score",
+                "Animation",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Compteur",
+                "Text",
+                "=",
+                "\"9\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Score",
+                "Animation",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "Compteur",
+                "Text",
+                "=",
+                "\"12\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Score",
+                "Animation",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Score",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
+    }
+  ]
+}

@@ -1,0 +1,1160 @@
+{
+  "b": 209,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "LV3_95FACILE",
+  "name": "LV3_FACILE",
+  "r": 209,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 209,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.7130377630690402,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "GRILLE_LV2",
+      "persistentUuid": "408639ab-a471-41d1-9cd5-554a66b83acd",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "7c3c64a4-52ae-4d82-8f49-d1afd8ad721f",
+      "width": 100,
+      "x": 127,
+      "y": 530,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "13a8eb2c-bfb9-4c18-a26a-9881635b09ae",
+      "width": 100,
+      "x": 243,
+      "y": 530,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "bbd194bb-8b15-42a2-9630-a1cac4c64f51",
+      "width": 100,
+      "x": 360,
+      "y": 530,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "4f7c7a08-e282-4458-8e2d-90382aa97105",
+      "width": 100,
+      "x": 476,
+      "y": 530,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "4f7469ae-3b5e-4c9e-b5e8-b1af0c0c8a43",
+      "width": 100,
+      "x": 593,
+      "y": 530,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1ba2903e-247a-4fca-b37d-58380ce5042a",
+      "width": 100,
+      "x": 593,
+      "y": 645,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1458848d-2180-47d4-a50a-6f1ef8fb9e29",
+      "width": 100,
+      "x": 476,
+      "y": 645,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "14c2789f-ee5f-42fe-a97b-4de05e2bb907",
+      "width": 100,
+      "x": 360,
+      "y": 645,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1c847c5d-0347-45b1-b7c9-b1c11ea5d513",
+      "width": 100,
+      "x": 243,
+      "y": 645,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "5a3e87c9-e4a8-406a-8cc6-86aceaab2cb8",
+      "width": 100,
+      "x": 127,
+      "y": 645,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "174e3d84-741a-4cac-a0d5-bf4001057e75",
+      "width": 100,
+      "x": 593,
+      "y": 760,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "968729d0-d289-4ffa-b599-dcd3064c5fe9",
+      "width": 100,
+      "x": 476,
+      "y": 760,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "91f5daab-8b02-4424-b86d-3e8d0a7feee2",
+      "width": 100,
+      "x": 360,
+      "y": 760,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "d925f216-010f-46db-9fc5-965b76ca3dbb",
+      "width": 100,
+      "x": 243,
+      "y": 760,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1e2118da-348f-4c99-81bd-f33e3af0247e",
+      "width": 100,
+      "x": 127,
+      "y": 760,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "c70884d3-4051-430d-9835-3cae9ddef85a",
+      "width": 100,
+      "x": 593,
+      "y": 875,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "d0b5378f-b014-4447-ae58-fc8be6ebd41b",
+      "width": 100,
+      "x": 476,
+      "y": 875,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "90f8df69-128d-43b3-a1b8-59531326bdba",
+      "width": 100,
+      "x": 360,
+      "y": 875,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "d4c87f5d-ebb1-41aa-8839-c6f1b018b38f",
+      "width": 100,
+      "x": 243,
+      "y": 875,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "57af8a54-5688-4e64-9677-0ed35992e88b",
+      "width": 100,
+      "x": 127,
+      "y": 875,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Deminor",
+      "persistentUuid": "6dacbec2-2e0c-4d40-acac-3657a2219cf3",
+      "width": 0,
+      "x": 128,
+      "y": 759,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X3_Vertical",
+      "persistentUuid": "5326350b-ff35-4108-9894-4d01cd2cb315",
+      "width": 0,
+      "x": 365,
+      "y": 547,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "ba59dab2-9349-447d-8751-6f10fa5cc67e",
+      "width": 0,
+      "x": 474,
+      "y": 656,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "190237c1-c3b6-4698-b207-de4095255447",
+      "width": 0,
+      "x": 127,
+      "y": 540,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "9453e427-75d7-4ebb-b909-9791e098de73",
+      "width": 0,
+      "x": 243,
+      "y": 770,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "EXIT",
+      "persistentUuid": "ac9d9a2b-350f-4a32-830c-69e86f3b0c57",
+      "width": 0,
+      "x": 560,
+      "y": 725,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Timer_CD",
+      "persistentUuid": "542a0269-e4b0-4058-94d2-476cd5e958c6",
+      "width": 0,
+      "x": 320,
+      "y": 239,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Compteur",
+      "persistentUuid": "1b76ae15-d7a2-4c2e-8a00-9098a5b475d1",
+      "width": 0,
+      "x": 357,
+      "y": 245,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 782,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "f4f9f7a5-4de8-4d34-8c43-c8ffe634f3db",
+      "width": 178,
+      "x": 748,
+      "y": 832,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 803,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "3dd68163-5018-434a-805f-d7416f66b534",
+      "width": 322,
+      "x": -99,
+      "y": 817,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 155,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "683bcc0e-7128-4aba-9691-4e42e6cebda6",
+      "width": 879,
+      "x": 384,
+      "y": 1247,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 131,
+      "layer": "",
+      "name": "Hit_box",
+      "persistentUuid": "fa8a9a2b-65a3-49ce-a541-e228975e0b78",
+      "width": 826,
+      "x": 390,
+      "y": 400,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "EXIT_LV3F",
+      "persistentUuid": "8b7d4a7d-a6ac-424e-bb72-a1c3af966314",
+      "width": 0,
+      "x": 443,
+      "y": 725,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "dfcc8d34-08d0-40fc-91a4-a0d83d2b7dc1",
+      "width": 100,
+      "x": 127,
+      "y": 1105,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "3a509d5f-012f-4052-9861-db3eb43b94d6",
+      "width": 100,
+      "x": 243,
+      "y": 1105,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "909cc9b9-4227-4077-8b8d-e32c0a712777",
+      "width": 100,
+      "x": 360,
+      "y": 1105,
+      "zOrder": 26,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "51300e7a-f048-44a7-9ac0-109564f8f41d",
+      "width": 100,
+      "x": 476,
+      "y": 1105,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "8b075ed7-0be3-47dc-b967-fd1be2aa7406",
+      "width": 100,
+      "x": 593,
+      "y": 1105,
+      "zOrder": 28,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Horizontal",
+      "persistentUuid": "5a920aef-3a34-4f22-bd0a-3befba195c13",
+      "width": 0,
+      "x": 239,
+      "y": 1102,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "e4e8e761-d08d-4fda-ae3c-caf0a5720cb4",
+      "width": 100,
+      "x": 127,
+      "y": 989,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "ce8a3654-0ef1-4a5b-a5ca-098ec28420ba",
+      "width": 100,
+      "x": 243,
+      "y": 989,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "1de8d612-df8b-489b-aa35-c5aaece269ad",
+      "width": 100,
+      "x": 360,
+      "y": 989,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "27b657f6-0512-4584-9885-d650b170e9d5",
+      "width": 100,
+      "x": 476,
+      "y": 989,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 100,
+      "layer": "",
+      "name": "Center_Object",
+      "persistentUuid": "aaa5cb47-737b-4839-a660-2859b1c4e5af",
+      "width": 100,
+      "x": 593,
+      "y": 989,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Horizontal",
+      "persistentUuid": "1d19753a-e31a-49b0-8ca1-ec1f49a2c19b",
+      "width": 0,
+      "x": 357,
+      "y": 985,
+      "zOrder": 35,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Vertical",
+      "persistentUuid": "9b713269-de78-4fe1-92ba-58128232d0f2",
+      "width": 0,
+      "x": 127,
+      "y": 1000,
+      "zOrder": 36,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "X2_Horizontal",
+      "persistentUuid": "1ae2cea8-9b52-4c21-8b4c-bc9826b8f7f5",
+      "width": 0,
+      "x": 473,
+      "y": 526,
+      "zOrder": 37,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "GRILLE_LV2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Grille 6x10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 62,
+                        "y": 465
+                      },
+                      {
+                        "x": 659,
+                        "y": 465
+                      },
+                      {
+                        "x": 659,
+                        "y": 1169
+                      },
+                      {
+                        "x": 62,
+                        "y": 1169
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "EXIT_LV3F",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "GRILLE_LV2"
+      },
+      {
+        "objectName": "EXIT_LV3F"
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Game_Event"
+    },
+    {
+      "colorB": 19,
+      "colorG": 0,
+      "colorR": 153,
+      "creationTime": 0,
+      "name": "Count Down / Movement Counter",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer_CD\""
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "Deminor",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X2_Vertical",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X2_Horizontal",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X3_Vertical",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "EffectCapability::EffectBehavior::EnableEffect"
+              },
+              "parameters": [
+                "X3_Horizontal",
+                "Effect",
+                "\"Selection\"",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "Timer_CD",
+                "Text",
+                "=",
+                "ToString(round(abs(TimerElapsedTime(\"Timer_CD\")-120))) "
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Timer_CD\"",
+                ">=",
+                "180"
+              ]
+            }
+          ],
+          "actions": []
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Deminor",
+            "EXIT_LV3F",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetGlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "L3F",
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
+    }
+  ]
+}
